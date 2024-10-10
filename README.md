@@ -14,6 +14,8 @@
     <a href="https://github.com/aryazakaria01/CBMusicBot/network/members"> <img src="https://img.shields.io/github/stars/aryazakaria01/CBMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
+
+https://i.postimg.cc/jq62dN5d/file-CRA9zevd-FFy-BFEeu421odwb3.webp
 <h3>Requirements 📝</h3>
 
 - FFmpeg
