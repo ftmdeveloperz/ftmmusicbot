@@ -2,7 +2,7 @@
 
 ### Cyber Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
-<p align="center"><a href="https://t.me/CyberMusicBot"><img src="https://ibb.co/71qs3n4" width="300"></a></p>
+<p align="center"><a href="https://t.me/CyberMusicBot"><img src="https://freeimage.host/i/dypEbx2" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/aryazakaria01/CBMusicBot/graphs/commit-activity" alt="Maintenance"> <img src="[https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square](https://ibb.co/71qs3" /></a>
